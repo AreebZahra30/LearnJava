@@ -1,4 +1,4 @@
-package ex_2707;
+package LearnJava;
 
 public class Lab003 {
     public static void main(String[] args) {

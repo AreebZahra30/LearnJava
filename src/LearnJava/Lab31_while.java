@@ -7,6 +7,10 @@ public class Lab31_while {
         while (dependence_day<=14){
             System.out.println("Independence day is on 14th August");
             dependence_day ++ ;
+
+           /* while(true){
+                System.out.println("Will be infinite loop as condition is always true");
+            } */
         }
     }
 }
